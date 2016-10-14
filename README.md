@@ -9,6 +9,7 @@ Author: Elizabeth Wickes, @elliewix
 * Original data file from the spreadsheets lesson at Data Carpentry
   * http://www.datacarpentry.org/spreadsheet-ecology-lesson/
 * My R graphics reference was R for Everyone
+* Wickham, Hadley. (August, 2014). “Tidy Data.” Journal of Statistical Software, 10(59).
 
 # License
 
