@@ -1,5 +1,5 @@
 ---
-title: "Basic graphics with tidy data, or: why starting tidy makes life in R palettable"
+title: "Basic graphics with tidy data, or: why starting tidy makes life in R palatable"
 author: "Elizabeth Wickes, wickes1@illinois.edu, @elliewix"
 output:
   pdf_document:
