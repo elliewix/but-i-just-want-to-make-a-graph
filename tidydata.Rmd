@@ -31,7 +31,7 @@ You should follow along in RStudio with these commands. You will be using a data
 
 ### Load the library
 
-You should have installed this with `install.library("ggplot2")`.  You call `library()` with the module name, without quotes, to load the library.
+You should have installed this with `install.packages("ggplot2")`.  You call `library()` with the module name, without quotes, to load the library.
 
 ```{r, warning=FALSE}
 library(ggplot2)
