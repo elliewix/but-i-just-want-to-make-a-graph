@@ -1,3 +1,7 @@
+# DOI
+
+[![DOI](https://zenodo.org/badge/70852185.svg)](https://zenodo.org/badge/latestdoi/70852185)
+
 # Readme file for "But I just want to make a graph" 
 
 Which is a semi-snarky title to a workshop actually called "Creating Tidy Data" for the 2016 Midwest Data Librarian Symposium (MDLS).  https://mwdatalibrariansymposium.wordpress.com/
