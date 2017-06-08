@@ -1,5 +1,5 @@
 ---
-title: "Basic graphics with tidy data, or: why starting tidy makes life in R palatable"
+title: 'Basic graphics with tidy data, or: why starting tidy makes life in R palatable'
 author: "Elizabeth Wickes, wickes1@illinois.edu, @elliewix"
 output:
   pdf_document:
@@ -108,6 +108,7 @@ Now we're seeing the power of having our data already in tidy format.  Because a
 ```{r, warning=FALSE, error=FALSE, results='hide'}
 
 p + geom_point(aes(color = Species)) # color by the Species column
+#benign change
 
 ```
 
@@ -116,3 +117,4 @@ p + geom_point(aes(color = Species)) # color by the Species column
 * Try changing the color variable to other columns within the data file.
 * What worked? What didn't?
 * What were the errors that you encountered?
+
